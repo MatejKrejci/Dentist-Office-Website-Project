@@ -8,5 +8,5 @@ This repository contains a Dentist Office Website project created as part of my 
 - 🍔 **Dynamic Hamburger Menu**: Provides an intuitive navigation experience.
 - 🎨 **Modern Aesthetic**: Clean and professional design tailored for a dental clinic.
 - 🔧 **Real-World Application**: Designed with practical use and deployment in mind.
-<br>
+
 [Visit the live project.](https://eso.vse.cz/~krem22/sp01/)
